@@ -1,0 +1,353 @@
+
+[tools_and_abilities]
+
+	[tools_and_abilities.ignitium_armor]
+
+		[tools_and_abilities.ignitium_armor.armor_config]
+			#Armor_Multiplier
+			#Range: 0.0 ~ 1000000.0
+			armor_multiplier = 1.0
+			#Toughness
+			#Range: 0.0 ~ 1000000.0
+			toughness = 4.0
+			#Knockback Resistance
+			#Range: 0.0 ~ 1000000.0
+			knockback_resistance = 0.15
+
+	[tools_and_abilities.cursium_armor]
+
+		[tools_and_abilities.cursium_armor.armor_config]
+			#Armor_Multiplier
+			#Range: 0.0 ~ 1000000.0
+			armor_multiplier = 1.0
+			#Toughness
+			#Range: 0.0 ~ 1000000.0
+			toughness = 4.0
+			#Knockback Resistance
+			#Range: 0.0 ~ 1000000.0
+			knockback_resistance = 0.05
+
+	[tools_and_abilities.bone_reptile_armor]
+
+		[tools_and_abilities.bone_reptile_armor.armor_config]
+			#Armor_Multiplier
+			#Range: 0.0 ~ 1000000.0
+			armor_multiplier = 1.0
+			#Toughness
+			#Range: 0.0 ~ 1000000.0
+			toughness = 2.5
+			#Knockback Resistance
+			#Range: 0.0 ~ 1000000.0
+			knockback_resistance = 0.15
+
+	[tools_and_abilities.bloom_stone_armor]
+
+		[tools_and_abilities.bloom_stone_armor.armor_config]
+			#Armor_Multiplier
+			#Range: 0.0 ~ 1000000.0
+			armor_multiplier = 1.0
+			#Toughness
+			#Range: 0.0 ~ 1000000.0
+			toughness = 2.0
+			#Knockback Resistance
+			#Range: 0.0 ~ 1000000.0
+			knockback_resistance = 0.1
+
+	[tools_and_abilities.incinerator]
+		#Incinerator Cooldown
+		#Range: 0 ~ 1000
+		incinerator_cooldown = 400
+
+		[tools_and_abilities.incinerator.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 14.0
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.4
+
+	[tools_and_abilities.bulwark_of_the_flame]
+		#Bulwark Of The Flame Cooldown
+		#Range: 0 ~ 1000
+		bulwark_of_the_flame_cooldown = 80
+
+	[tools_and_abilities.gauntlet_of_guard]
+
+		[tools_and_abilities.gauntlet_of_guard.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 11.0
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.6
+
+	[tools_and_abilities.gauntlet_of_bulwark]
+		#Gauntlet Of Bulwark Cooldown
+		#Range: 0 ~ 1000
+		gauntlet_of_bulwark_cooldown = 80
+
+		[tools_and_abilities.gauntlet_of_bulwark.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 11.0
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.6
+
+	[tools_and_abilities.gauntlet_of_maelstrom]
+		#Maelstrom Cooldown
+		#Range: 0 ~ 1000
+		maelstrom_cooldown = 180
+
+		[tools_and_abilities.gauntlet_of_maelstrom.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 11.0
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.6
+
+	[tools_and_abilities.infernal_forge]
+		#Infernal Forge Cooldown
+		#Range: 0 ~ 1000
+		infernal_forge_cooldown = 80
+
+		[tools_and_abilities.infernal_forge.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 13.0
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.0
+
+	[tools_and_abilities.void_forge]
+		#Void Forge Cooldown
+		#Range: 0 ~ 1000
+		void_forge_cooldown = 100
+		#Void Forge Rune Damage
+		#Range: 0.0 ~ 1000000.0
+		void_forge_rune_damage = 7.0
+
+		[tools_and_abilities.void_forge.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 13.0
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.0
+
+	[tools_and_abilities.brontes]
+		#Brontes Storm Damage
+		#Range: 0.0 ~ 1000000.0
+		brontes_storm_damage = 10.0
+		#Brontes Storm Area Damage
+		#Range: 0.0 ~ 1000000.0
+		brontes_storm_area_damage = 1.0
+
+		[tools_and_abilities.brontes.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 13.0
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.0
+
+	[tools_and_abilities.wither_assault_shoulder_weapon]
+		#Missile Cooldown
+		#Range: 0 ~ 1000
+		missile_cooldown = 40
+		#Missile Damage
+		#Range: 0.0 ~ 100000.0
+		missile_damage = 16.0
+		#Howitzer Cooldown
+		#Range: 0 ~ 1000
+		howitzer_cooldown = 100
+
+	[tools_and_abilities.void_assault_shoulder_weapon]
+		#Howitzer Cooldown
+		#Range: 0 ~ 1000
+		howitzer_cooldown = 160
+		#VASW Rune Damage
+		#Range: 0.0 ~ 1000000.0
+		vasw_rune_damage = 7.0
+
+	[tools_and_abilities.void_core]
+		#Cooldown
+		#Range: 0 ~ 1000
+		void_core_cooldown = 160
+		#Void Core Rune Damage
+		#Range: 0.0 ~ 1000000.0
+		void_core_rune_damage = 7.0
+
+	[tools_and_abilities.sandstorm]
+		#Cooldown
+		#Range: 0 ~ 1000
+		sandstorm_cooldown = 300
+
+	[tools_and_abilities.soul_render]
+		#Soul Render Cooldown
+		#Range: 0 ~ 1000
+		soul_render_cooldown = 100
+		#Phantom Halberd Damage
+		#Range: 0.0 ~ 1000000.0
+		phantom_halberd_damage = 12.0
+
+		[tools_and_abilities.soul_render.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 15.0
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.05
+
+	[tools_and_abilities.immolator]
+		#Immolator Cooldown
+		#Range: 0 ~ 1000
+		immolator_cooldown = 250
+
+		[tools_and_abilities.immolator.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 8.5
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.6
+
+	[tools_and_abilities.tidal_claws]
+
+		[tools_and_abilities.tidal_claws.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 8.0
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.6
+
+	[tools_and_abilities.ceraunus]
+		#Ceraunus Wave Damage
+		#Range: 0.0 ~ 1000000.0
+		ceraunus_wave_damage = 6.0
+		#Ceraunus Cooldown
+		#Range: 0 ~ 1000000
+		ceraunus_cooldown = 150
+
+		[tools_and_abilities.ceraunus.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 16.0
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 0.7
+
+	[tools_and_abilities.astrape]
+		#Astrape Damage
+		#Range: 0.0 ~ 1000000.0
+		astrape_damage = 11.0
+		#Astrape Area Damage
+		#Range: 0.0 ~ 1000000.0
+		astrape_area_damage = 2.0
+		#Astrape Cooldown
+		#Range: 0 ~ 1000000
+		astrape_cooldown = 60
+
+		[tools_and_abilities.astrape.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 10.5
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.4
+
+	[tools_and_abilities.meat_shredder]
+
+		[tools_and_abilities.meat_shredder.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 8.5
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.4
+
+	[tools_and_abilities.annihilator]
+
+		[tools_and_abilities.annihilator.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 8.5
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.6
+
+	[tools_and_abilities.cursed_bow]
+		#Cursed Bow Damage
+		#Range: 0.0 ~ 1000000.0
+		cursed_bow_damage = 8.0
+
+	[tools_and_abilities.wrath_of_the_desert]
+		#Wrath Of The Desert Damage
+		#Range: 0.0 ~ 1000000.0
+		wrath_of_the_desert_damage = 7.5
+
+	[tools_and_abilities.laser_gatling]
+		#Laser Damage
+		#Range: 0.0 ~ 1000000.0
+		laser_damage = 7.0
+
+	[tools_and_abilities.ancient_spear]
+		#SandStorm
+		#Range: 0.0 ~ 1000000.0
+		sand_storm_damage = 6.0
+
+		[tools_and_abilities.ancient_spear.tool_config]
+			#Tool attack damage
+			#Range: 0.0 ~ 1000000.0
+			attack_damage = 9.5
+			#Tool attack speed
+			#Range: 0.0 ~ 1000000.0
+			attack_speed = 1.4
+
+[mobs]
+
+	[mobs.etc]
+		#Return Home
+		#Range: 0 ~ 200
+		return_home = 20
+
+	[mobs.ender_guardian]
+		#Gravity Punch Hp Damage
+		#Range: 0.0 ~ 1.0
+		gravity_punch_hp_damage = 0.05
+		#Teleport Attack Hp Damage
+		#Range: 0.0 ~ 1.0
+		teleport_attack_hp_damage = 0.05
+		#Knockback Hp Damage
+		#Range: 0.0 ~ 1.0
+		knockback_hp_damage = 0.06
+		#Uppercut Hp Damage
+		#Range: 0.0 ~ 1.0
+		uppercut_hp_damage = 0.1
+		#Rocket Punch Hp Damage
+		#Range: 0.0 ~ 1.0
+		rocket_punch_hp_damage = 0.1
+		#Area Attack Hp Damage
+		#Range: 0.0 ~ 1.0
+		area_attack_hp_damage = 0.08
+		#Block Breaking X
+		#Range: 0 ~ 20
+		block_break_x = 15
+		#Block Breaking Y
+		#Range: 0 ~ 10
+		block_break_y = 2
+		#Block Breaking Z
+		#Range: 0 ~ 20
+		block_break_z = 15
+		#Void Rune Damage
+		#Range: 0.0 ~ 1000000.0
+		void_rune_damage = 9.0
+		#Enable separate music per boss phase
+		separate_phase_music = true
+
+		[mobs.ender_guardian.combat_config]
+			#Scale mob health by this value
+			#Range: 0.1 ~ 1000000.0
+			health_mult
